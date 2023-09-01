@@ -1,7 +1,7 @@
 # Quasi-identifier-De-identification-Streamlit
 # Reference
 ## Paper:
-- [Resolution-robust Large Mask Inpainting with Fourier Convolutions]([https://openaccess.thecvf.com/content_CVPR_2020/html/Deng_RetinaFace_Single-Shot_Multi-Level_Face_Localisation_in_the_Wild_CVPR_2020_paper.html](https://openaccess.thecvf.com/content/WACV2022/papers/Suvorov_Resolution-Robust_Large_Mask_Inpainting_With_Fourier_Convolutions_WACV_2022_paper.pdf) (WACV 2022)
+- [Resolution-robust Large Mask Inpainting with Fourier Convolutions](https://openaccess.thecvf.com/content/WACV2022/papers/Suvorov_Resolution-Robust_Large_Mask_Inpainting_With_Fourier_Convolutions_WACV_2022_paper.pdf) (WACV 2022)
 - [Analyzing and Improving the Image Quality of StyleGAN](https://openaccess.thecvf.com/content_CVPR_2020/papers/Karras_Analyzing_and_Improving_the_Image_Quality_of_StyleGAN_CVPR_2020_paper.pdf) (CVPR 2020)
 - [Structure-Aware Flow Generation for Human Body Reshaping](https://openaccess.thecvf.com/content/CVPR2022/papers/Ren_Structure-Aware_Flow_Generation_for_Human_Body_Reshaping_CVPR_2022_paper.pdf) (CVPR 2022)
 - [MMDetection: Open mmlab detection toolbox and benchmark](https://arxiv.org/abs/1906.07155)
